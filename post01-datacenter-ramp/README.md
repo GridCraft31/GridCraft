@@ -1,6 +1,6 @@
 # โหลด Data Center กับ ramp rate — ทำไม "กี่เมกะวัตต์" อย่างเดียวไม่พอ
 
-[![เปิดใน Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GirdCraft/GridCraft/blob/main/post01-datacenter-ramp/post01_share.ipynb)
+[![เปิดใน Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GridCraft31/GridCraft/blob/main/post01-datacenter-ramp/post01_share.ipynb)
 
 ![ผลการจำลอง](datacenter_ramp.png)
 
