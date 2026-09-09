@@ -1,0 +1,8 @@
+# ฟอนต์ที่สคริปต์โหลดมาเองตอนรัน ไม่ต้องเก็บลง repo
+NotoSansThai-Regular.ttf
+
+# ไฟล์ชั่วคราวของ Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
