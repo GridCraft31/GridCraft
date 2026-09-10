@@ -9,6 +9,8 @@
 
 - [post01-datacenter-ramp](post01-datacenter-ramp/) — โหลด Data Center กับ ramp rate
   ทำไม "กี่เมกะวัตต์" อย่างเดียวไม่พอ
+- [post02-lv-solar-ev-bess](post02-lv-solar-ev-bess/) — ระบบแรงต่ำ: โซลาร์เที่ยงแรงดันเกิน
+  EV หัวค่ำแรงดันตก ปรับ tap แก้ไม่ได้ แบตแก้ได้เพราะย้ายไฟข้ามเวลา
 
 ## หลักการของโค้ดในรีโปนี้
 
